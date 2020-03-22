@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 import withLayout from "../components/layout";
 
-const Page = () => <p>Hello Next.js</p>;
+const Page = () => <p>This is the about page</p>;
 
 export default withLayout(Page);
